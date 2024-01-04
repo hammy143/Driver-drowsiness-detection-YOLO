@@ -1,0 +1,6 @@
+train: ./DD/train/images
+val: ./DD/valid/images
+test: ./DD/test/images
+
+nc: 2
+names: ['awake', 'drowsy']
